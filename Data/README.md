@@ -1,1 +1,1 @@
-/// Data gathered for cyber attacks
+Data gathered for cyber attacks
