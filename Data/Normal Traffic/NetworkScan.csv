@@ -1,495 +1,495 @@
 No.,Time,Source,Destination,Protocol,Length,Info,Label
-1,0,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-2,0.014940064,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-3,0.999998628,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-4,1.030683934,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-5,1.435262605,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-6,1.435776638,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-7,1.436363458,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-8,1.436874706,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-9,1.602672046,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1afa Server failure A 3.ubuntu.pool.ntp.org,
-10,1.602710157,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x2171 Server failure AAAA 3.ubuntu.pool.ntp.org,
-11,1.602804514,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xcf47 A 3.ubuntu.pool.ntp.org.mydns.com,
-12,1.603263766,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x6d27 AAAA 3.ubuntu.pool.ntp.org.mydns.com,
-13,1.603541072,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xcf47 No such name A 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-14,1.603557379,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x6d27 No such name AAAA 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-15,1.603708126,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xdee0 A 1.ubuntu.pool.ntp.org,
-16,1.603820195,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x4fa4 AAAA 1.ubuntu.pool.ntp.org,
-17,1.620704517,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-18,1.62078739,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-19,1.620880035,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-20,1.621270612,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-21,2.054738429,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-22,5.018606833,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-23,5.40457998,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-24,5.448255786,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-25,5.448524408,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-26,5.448955593,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-27,5.449179531,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-28,5.632819478,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-29,5.633142803,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-30,5.633664301,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-31,5.634070119,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-32,6.022553466,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-33,6.403843994,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-34,6.607569176,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xdee0 A 1.ubuntu.pool.ntp.org,
-35,6.607661937,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x4fa4 AAAA 1.ubuntu.pool.ntp.org,
-36,6.615700221,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,Who has 192.168.159.151? Tell 192.168.159.152,
-37,6.615716411,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,192.168.159.151 is at 00:0c:29:d1:d0:a0,
-38,6.868928714,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=1/256, ttl=64 (reply in 39)",
-39,6.868937794,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=1/256, ttl=64 (request in 38)",
-40,7.046759759,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-41,7.403736823,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-42,7.868158244,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=2/512, ttl=64 (reply in 43)",
-43,7.868166511,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=2/512, ttl=64 (request in 42)",
-44,8.868556082,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=3/768, ttl=64 (reply in 45)",
-45,8.868653099,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=3/768, ttl=64 (request in 44)",
-46,9.205260961,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-47,9.868012914,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=4/1024, ttl=64 (reply in 48)",
-48,9.868148611,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=4/1024, ttl=64 (request in 47)",
-49,10.02382512,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-50,10.20376612,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-51,10.23042497,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,
-52,10.86805381,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=5/1280, ttl=64 (reply in 53)",
-53,10.8681093,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=5/1280, ttl=64 (request in 52)",
-54,11.04668655,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-55,11.20385171,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-56,11.60459206,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xdee0 Server failure A 1.ubuntu.pool.ntp.org,
-57,11.60461675,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x4fa4 Server failure AAAA 1.ubuntu.pool.ntp.org,
-58,11.60470289,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xf09c A 1.ubuntu.pool.ntp.org.mydns.com,
-59,11.60476961,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x3f9d AAAA 1.ubuntu.pool.ntp.org.mydns.com,
-60,11.60496281,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xf09c No such name A 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-61,11.60497527,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x3f9d No such name AAAA 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-62,11.60519996,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xbff6 A ntp.ubuntu.com,
-63,11.60527031,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xf456 AAAA ntp.ubuntu.com,
-64,11.86788172,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=6/1536, ttl=64 (reply in 65)",
-65,11.86799538,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=6/1536, ttl=64 (request in 64)",
-66,11.87874528,Vmware_32:2e:c9,Vmware_e8:f1:88,ARP,60,Who has 192.168.159.152? Tell 192.168.159.150,
-67,11.87880304,Vmware_e8:f1:88,Vmware_32:2e:c9,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,
-68,12.07091864,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-69,12.8698686,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=7/1792, ttl=64 (reply in 70)",
-70,12.86995545,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=7/1792, ttl=64 (request in 69)",
-71,13.41575137,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-72,13.41609225,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-73,13.41654576,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-74,13.41680082,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-75,13.59985581,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-76,13.60009612,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-77,13.60056721,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-78,13.60080861,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-79,13.86881507,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=8/2048, ttl=64 (reply in 80)",
-80,13.86895083,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=8/2048, ttl=64 (request in 79)",
-81,14.42821217,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-82,14.42849657,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-83,14.42899077,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-84,14.42924297,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-85,14.6125809,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-86,14.61293561,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-87,14.61340371,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-88,14.61368098,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-89,14.8678369,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=9/2304, ttl=64 (reply in 90)",
-90,14.86794702,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=9/2304, ttl=64 (request in 89)",
-91,15.02937909,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-92,15.4059884,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-93,15.86764802,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=10/2560, ttl=64 (reply in 94)",
-94,15.86770143,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=10/2560, ttl=64 (request in 93)",
-95,16.03874881,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-96,16.40379068,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-97,16.44233973,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-98,16.44269074,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-99,16.44323492,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-100,16.4435898,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-101,16.61050066,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xbff6 A ntp.ubuntu.com,
-102,16.61058423,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xf456 AAAA ntp.ubuntu.com,
-103,16.62681527,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-104,16.62715153,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-105,16.62756848,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-106,16.62797082,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-107,17.0624973,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-108,17.40375214,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-109,17.65099579,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=1/256, ttl=64 (reply in 110)",
-110,17.65105155,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=1/256, ttl=64 (request in 109)",
-111,18.65119601,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=2/512, ttl=64 (reply in 112)",
-112,18.65122756,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=2/512, ttl=64 (request in 111)",
-113,19.2064344,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-114,19.65021494,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=3/768, ttl=64 (reply in 115)",
-115,19.65024851,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=3/768, ttl=64 (request in 114)",
-116,19.76006357,192.168.159.154,192.168.159.255,BROWSER,250,"Domain/Workgroup Announcement ADFANET, NT Workstation, Domain Enum",
-117,20.03478696,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-118,20.20370076,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-119,20.45559162,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-120,20.45612953,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-121,20.46020116,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-122,20.46068251,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-123,20.63993317,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-124,20.64059926,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-125,20.64080928,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-126,20.64117736,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-127,20.64943322,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=4/1024, ttl=64 (reply in 128)",
-128,20.64946883,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=4/1024, ttl=64 (request in 127)",
-129,21.06281977,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-130,21.20362816,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-131,21.60598427,192.168.159.152,192.168.159.151,DNS,74,Standard query response 0xf456 Server failure AAAA ntp.ubuntu.com,
-132,21.60601352,192.168.159.152,192.168.159.151,DNS,74,Standard query response 0xbff6 Server failure A ntp.ubuntu.com,
-133,21.60610185,192.168.159.151,192.168.159.152,DNS,84,Standard query 0x8390 A ntp.ubuntu.com.mydns.com,
-134,21.60616926,192.168.159.151,192.168.159.152,DNS,84,Standard query 0xa5d0 AAAA ntp.ubuntu.com.mydns.com,
-135,21.60637703,192.168.159.152,192.168.159.151,DNS,132,Standard query response 0x8390 No such name A ntp.ubuntu.com.mydns.com SOA ubuntu.mydns.com,
-136,21.60639056,192.168.159.152,192.168.159.151,DNS,132,Standard query response 0xa5d0 No such name AAAA ntp.ubuntu.com.mydns.com SOA ubuntu.mydns.com,
-137,21.64819469,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=5/1280, ttl=64 (reply in 138)",
-138,21.64822738,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=5/1280, ttl=64 (request in 137)",
-139,22.08660369,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-140,22.64953604,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=6/1536, ttl=64 (reply in 141)",
-141,22.6495679,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=6/1536, ttl=64 (request in 140)",
-142,23.64847716,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=7/1792, ttl=64 (reply in 143)",
-143,23.64851043,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=7/1792, ttl=64 (request in 142)",
-144,24.64752876,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=8/2048, ttl=64 (reply in 145)",
-145,24.64759376,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=8/2048, ttl=64 (request in 144)",
-146,24.65176862,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,Who has 192.168.159.152? Tell 192.168.159.151,
-147,24.65190864,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,
-148,25.04053957,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-149,25.53160365,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,
-150,25.64787504,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=9/2304, ttl=64 (reply in 151)",
-151,25.64790585,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=9/2304, ttl=64 (request in 150)",
-152,26.00850105,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,
-153,26.05459172,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-154,26.5443276,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,
-155,26.64784023,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=10/2560, ttl=64 (reply in 156)",
-156,26.64787333,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=10/2560, ttl=64 (request in 155)",
-157,27.02087139,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,
-158,27.07897886,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-159,27.55903228,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,
-160,28.03568069,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,
-161,28.41783142,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-162,28.41813729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-163,28.41862731,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-164,28.41892661,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-165,28.57387668,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,
-166,28.60186219,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-167,28.60215601,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-168,28.6025919,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-169,28.60282664,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-170,29.05055971,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,
-171,29.41994412,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-172,29.42020248,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-173,29.42062821,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-174,29.42088369,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-175,29.60421775,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-176,29.60450899,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-177,29.60491014,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-178,29.60515863,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-179,30.04598467,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-180,30.59999915,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xb482 A 0.ubuntu.pool.ntp.org,
-181,30.60009057,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1e3f AAAA 0.ubuntu.pool.ntp.org,
-182,30.60079961,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-183,31.04637654,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-184,31.43396389,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-185,31.4342506,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-186,31.43466125,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-187,31.43492611,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-188,31.599929,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-189,31.61858452,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-190,31.61886418,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-191,31.61927839,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-192,31.61951868,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-193,32.07074463,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-194,32.60028723,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-195,34.40109263,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-196,35.05072384,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-197,35.39984095,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-198,35.44726409,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-199,35.44759425,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-200,35.44798381,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-201,35.44822828,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-202,35.60028599,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xb482 A 0.ubuntu.pool.ntp.org,
-203,35.60037439,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1e3f AAAA 0.ubuntu.pool.ntp.org,
-204,35.63173436,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-205,35.63198341,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-206,35.63242742,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-207,35.63265862,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-208,36.0712379,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-209,36.39987799,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-210,37.09477666,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-211,38.20152948,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-212,39.20012206,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-213,40.05414537,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-214,40.19971476,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-215,40.24459096,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,
-216,40.25643993,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-217,40.25696781,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-218,40.60069521,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xb482 Server failure A 0.ubuntu.pool.ntp.org,
-219,40.60084692,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xe4ce A 0.ubuntu.pool.ntp.org.mydns.com,
-220,40.60092897,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x886b AAAA 0.ubuntu.pool.ntp.org.mydns.com,
-221,40.60115009,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x886b No such name AAAA 0.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-222,40.60116316,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xe4ce No such name A 0.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-223,40.60118931,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1e3f Server failure AAAA 0.ubuntu.pool.ntp.org,
-224,40.6012034,192.168.159.151,192.168.159.152,ICMP,109,Destination unreachable (Port unreachable),
-225,41.06278508,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-226,41.25628234,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-227,41.25643917,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-228,42.08662408,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-229,42.25572884,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-230,42.25579085,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-231,43.25565456,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-232,43.2558276,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-233,43.42015544,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-234,43.42043988,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-235,43.42086253,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-236,43.42108418,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-237,43.60419259,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-238,43.60474068,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-239,43.60488653,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-240,43.60514545,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-241,44.25559784,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-242,44.25576177,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-243,44.42687982,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-244,44.42715132,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-245,44.42757912,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-246,44.42787647,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-247,44.61142159,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-248,44.61171674,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-249,44.61210953,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-250,44.61243668,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-251,45.05967471,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-252,45.25607317,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-253,45.25615522,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-254,45.27184272,Vmware_e8:f1:88,Vmware_5a:c5:2a,ARP,60,Who has 192.168.159.153? Tell 192.168.159.152,
-255,45.27195958,Vmware_5a:c5:2a,Vmware_e8:f1:88,ARP,60,192.168.159.153 is at 00:0c:29:5a:c5:2a,
-256,45.51088829,Vmware_5a:c5:2a,Vmware_e8:f1:88,ARP,60,Who has 192.168.159.152? Tell 192.168.159.153,
-257,45.5113512,Vmware_e8:f1:88,Vmware_5a:c5:2a,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,
-258,46.06768546,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x201b A clients4.google.com,
-259,46.06822288,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-260,46.08682535,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-261,46.25598275,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-262,46.25611292,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-263,46.44126173,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-264,46.4416474,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-265,46.44218111,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-266,46.44243604,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-267,46.60022912,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1826 A 2.ubuntu.pool.ntp.org,
-268,46.60032279,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xabed AAAA 2.ubuntu.pool.ntp.org,
-269,46.62580459,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-270,46.62608847,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-271,46.62649533,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-272,46.62671483,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-273,47.06801671,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-274,47.1106667,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-275,47.25629846,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-276,47.25654135,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-277,48.06787671,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-278,48.25617489,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-279,48.25648603,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-280,49.25638375,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),
-281,49.25662895,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),
-282,49.86848747,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-283,50.06493466,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-284,50.45452564,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-285,50.4548156,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-286,50.45517759,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-287,50.45545217,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-288,50.63899339,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-289,50.63933244,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-290,50.63976729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-291,50.64004303,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-292,50.86782059,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-293,51.01050646,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=1/256, ttl=64 (reply in 296)",
-294,51.01085682,Vmware_c8:d3:2f,Broadcast,ARP,60,Who has 192.168.159.152? Tell 192.168.159.154,
-295,51.01092047,Vmware_e8:f1:88,Vmware_c8:d3:2f,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,
-296,51.01101175,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=1/256, ttl=128 (request in 293)",
-297,51.0725856,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x201b A clients4.google.com,
-298,51.07871074,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-299,51.60579106,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1826 A 2.ubuntu.pool.ntp.org,
-300,51.6058826,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xabed AAAA 2.ubuntu.pool.ntp.org,
-301,51.8678456,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-302,52.0095177,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=2/512, ttl=64 (reply in 303)",
-303,52.00967842,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=2/512, ttl=128 (request in 302)",
-304,52.06931237,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x9ae6 A clients4.google.com,
-305,52.10249728,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-306,53.00964258,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=3/768, ttl=64 (reply in 307)",
-307,53.00965229,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=3/768, ttl=128 (request in 306)",
-308,53.66900825,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-309,54.00860826,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=4/1024, ttl=64 (reply in 310)",
-310,54.00871014,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=4/1024, ttl=128 (request in 309)",
-311,54.22134137,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-312,54.66783,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-313,55.00758939,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=5/1280, ttl=64 (reply in 314)",
-314,55.00770845,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=5/1280, ttl=128 (request in 313)",
-315,55.07012249,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-316,55.66676718,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-317,55.66768742,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-318,56.00807132,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=6/1536, ttl=64 (reply in 319)",
-319,56.00817356,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=6/1536, ttl=128 (request in 318)",
-320,56.06854183,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x9ae6 Server failure A clients4.google.com,
-321,56.06857141,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x201b Server failure A clients4.google.com,
-322,56.06866339,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x9ae6 A clients4.google.com,
-323,56.06875418,192.168.159.151,192.168.159.152,DNS,89,Standard query 0x3c96 A clients4.google.com.mydns.com,
-324,56.06890771,192.168.159.152,192.168.159.151,DNS,137,Standard query response 0x3c96 No such name A clients4.google.com.mydns.com SOA ubuntu.mydns.com,
-325,56.07078335,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-326,56.22025085,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-327,56.60083305,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1826 Server failure A 2.ubuntu.pool.ntp.org,
-328,56.60086079,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xabed Server failure AAAA 2.ubuntu.pool.ntp.org,
-329,56.60094453,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xed00 A 2.ubuntu.pool.ntp.org.mydns.com,
-330,56.60101139,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xb11b AAAA 2.ubuntu.pool.ntp.org.mydns.com,
-331,56.60119002,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xed00 No such name A 2.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-332,56.60119805,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xb11b No such name AAAA 2.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-333,56.60131967,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xf95c A 3.ubuntu.pool.ntp.org,
-334,56.6013835,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xd8a3 AAAA 3.ubuntu.pool.ntp.org,
-335,57.00844379,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=7/1792, ttl=64 (reply in 336)",
-336,57.00854641,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=7/1792, ttl=128 (request in 335)",
-337,57.0946951,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-338,57.21970042,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-339,58.00798178,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=8/2048, ttl=64 (reply in 340)",
-340,58.00805835,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=8/2048, ttl=128 (request in 339)",
-341,58.42239293,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-342,58.42267019,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-343,58.42312039,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-344,58.4234092,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-345,58.60645601,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-346,58.60677346,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-347,58.6072486,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-348,58.60750263,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-349,58.68043239,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-350,59.00793389,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=9/2304, ttl=64 (reply in 351)",
-351,59.00794444,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=9/2304, ttl=128 (request in 350)",
-352,59.21866013,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-353,59.43411379,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-354,59.43435684,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-355,59.43479139,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-356,59.43504266,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-357,59.61864168,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-358,59.61893272,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-359,59.61935018,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-360,59.61966585,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-361,59.86954578,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-362,60.00785367,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=10/2560, ttl=64 (reply in 363)",
-363,60.00795519,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=10/2560, ttl=128 (request in 362)",
-364,60.07163349,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-365,60.2181764,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-366,60.86784385,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-367,61.07408417,192.168.159.151,192.168.159.152,DNS,89,Standard query 0x2861 A clients4.google.com.mydns.com,
-368,61.07438865,192.168.159.152,192.168.159.151,DNS,137,Standard query response 0x2861 No such name A clients4.google.com.mydns.com SOA ubuntu.mydns.com,
-369,61.09456128,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-370,61.44853622,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-371,61.44883962,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-372,61.44924884,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-373,61.44948368,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-374,61.60380624,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xf95c A 3.ubuntu.pool.ntp.org,
-375,61.60389439,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xd8a3 AAAA 3.ubuntu.pool.ntp.org,
-376,61.63300858,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-377,61.63326909,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-378,61.63369751,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-379,61.63403445,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-380,61.6941696,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-381,61.86778104,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-382,62.11877812,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-383,62.23243038,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-384,62.62936127,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-385,63.23186693,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-386,63.62765706,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-387,63.66988998,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-388,64.62764521,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-389,64.66778849,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-390,64.70806138,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-391,65.0774583,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-392,65.23078556,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-393,65.4617031,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-394,65.46212156,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-395,65.46265379,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-396,65.46296131,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-397,65.63717556,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-398,65.6461491,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-399,65.64646729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-400,65.64688746,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-401,65.64716215,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-402,65.66772979,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-403,66.06953775,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x9ae6 Server failure A clients4.google.com,
-404,66.06960237,192.168.159.151,192.168.159.152,ICMP,107,Destination unreachable (Port unreachable),
-405,66.08646829,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-406,66.12351328,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,Who has 192.168.159.152? Tell 192.168.159.151,
-407,66.12408351,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,
-408,66.23032065,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,
-409,66.60184389,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xf95c Server failure A 3.ubuntu.pool.ntp.org,
-410,66.60187339,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xd8a3 Server failure AAAA 3.ubuntu.pool.ntp.org,
-411,66.60195984,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x0b27 A 3.ubuntu.pool.ntp.org.mydns.com,
-412,66.60202686,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xdeb1 AAAA 3.ubuntu.pool.ntp.org.mydns.com,
-413,66.60221022,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x0b27 No such name A 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-414,66.60222164,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xdeb1 No such name AAAA 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-415,66.60234955,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x6541 A 1.ubuntu.pool.ntp.org,
-416,66.60243208,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x66d7 AAAA 1.ubuntu.pool.ntp.org,
-417,66.63595206,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-418,67.11061961,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-419,67.63587099,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-420,68.63882857,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-421,69.63577412,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-422,70.08281387,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-423,70.2592347,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,
-424,70.40344038,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-425,70.63581947,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-426,71.11058585,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-427,71.39966974,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-428,71.60773805,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,Who has 192.168.159.151? Tell 192.168.159.152,
-429,71.60775587,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,192.168.159.151 is at 00:0c:29:d1:d0:a0,
-430,71.6079261,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x6541 A 1.ubuntu.pool.ntp.org,
-431,71.6080165,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x66d7 AAAA 1.ubuntu.pool.ntp.org,
-432,71.65409519,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-433,72.13460527,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-434,72.39988708,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-435,72.65192666,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-436,73.42446605,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-437,73.42473395,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-438,73.42513323,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-439,73.42537906,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-440,73.60745662,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-441,73.60775672,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-442,73.60815722,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-443,73.60839521,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-444,73.65185673,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,
-445,74.20401093,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-446,74.42581066,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-447,74.42618982,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-448,74.42658847,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-449,74.4268276,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-450,74.61042025,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-451,74.61073002,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-452,74.61115796,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-453,74.61144504,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-454,75.08836865,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-455,75.20382083,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-456,76.10263248,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-457,76.20377739,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-458,76.44034011,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-459,76.44071314,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-460,76.44127577,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-461,76.44162399,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-462,76.60314207,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x66d7 Server failure AAAA 1.ubuntu.pool.ntp.org,
-463,76.60316983,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x6541 Server failure A 1.ubuntu.pool.ntp.org,
-464,76.60325509,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x83a4 A 1.ubuntu.pool.ntp.org.mydns.com,
-465,76.60335143,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xd778 AAAA 1.ubuntu.pool.ntp.org.mydns.com,
-466,76.60353963,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x83a4 No such name A 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-467,76.60355205,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xd778 No such name AAAA 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,
-468,76.60372583,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xe60e A ntp.ubuntu.com,
-469,76.60414397,192.168.159.151,192.168.159.152,DNS,74,Standard query 0x1eac AAAA ntp.ubuntu.com,
-470,76.6246752,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-471,76.62500747,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-472,76.6254945,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-473,76.62569453,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-474,77.12684218,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-475,80.09411795,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-476,80.45338824,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-477,80.45370447,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",
-478,80.45410715,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-479,80.45441621,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-480,80.60497397,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-481,80.6376997,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-482,80.63797361,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",
-483,80.63838314,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-484,80.63865673,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,
-485,81.09483532,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-486,81.60364786,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-487,81.60754162,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xe60e A ntp.ubuntu.com,
-488,81.60766681,192.168.159.151,192.168.159.152,DNS,74,Standard query 0x1eac AAAA ntp.ubuntu.com,
-489,82.1185736,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,
-490,82.6036722,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,
-491,83.74571041,192.168.241.1,224.0.0.251,MDNS,87,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",
-492,83.74594515,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",
-493,83.74609356,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",
-494,83.74649135,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",
+1,0,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+2,0.014940064,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+3,0.999998628,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+4,1.030683934,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+5,1.435262605,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+6,1.435776638,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+7,1.436363458,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+8,1.436874706,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+9,1.602672046,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1afa Server failure A 3.ubuntu.pool.ntp.org,normal
+10,1.602710157,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x2171 Server failure AAAA 3.ubuntu.pool.ntp.org,normal
+11,1.602804514,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xcf47 A 3.ubuntu.pool.ntp.org.mydns.com,normal
+12,1.603263766,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x6d27 AAAA 3.ubuntu.pool.ntp.org.mydns.com,normal
+13,1.603541072,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xcf47 No such name A 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+14,1.603557379,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x6d27 No such name AAAA 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+15,1.603708126,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xdee0 A 1.ubuntu.pool.ntp.org,normal
+16,1.603820195,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x4fa4 AAAA 1.ubuntu.pool.ntp.org,normal
+17,1.620704517,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+18,1.62078739,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+19,1.620880035,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+20,1.621270612,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+21,2.054738429,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+22,5.018606833,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+23,5.40457998,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+24,5.448255786,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+25,5.448524408,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+26,5.448955593,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+27,5.449179531,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+28,5.632819478,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+29,5.633142803,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+30,5.633664301,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+31,5.634070119,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+32,6.022553466,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+33,6.403843994,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+34,6.607569176,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xdee0 A 1.ubuntu.pool.ntp.org,normal
+35,6.607661937,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x4fa4 AAAA 1.ubuntu.pool.ntp.org,normal
+36,6.615700221,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,Who has 192.168.159.151? Tell 192.168.159.152,normal
+37,6.615716411,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,192.168.159.151 is at 00:0c:29:d1:d0:a0,normal
+38,6.868928714,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=1/256, ttl=64 (reply in 39)",attack
+39,6.868937794,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=1/256, ttl=64 (request in 38)",attack
+40,7.046759759,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+41,7.403736823,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+42,7.868158244,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=2/512, ttl=64 (reply in 43)",attack
+43,7.868166511,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=2/512, ttl=64 (request in 42)",attack
+44,8.868556082,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=3/768, ttl=64 (reply in 45)",attack
+45,8.868653099,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=3/768, ttl=64 (request in 44)",attack
+46,9.205260961,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+47,9.868012914,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=4/1024, ttl=64 (reply in 48)",attack
+48,9.868148611,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=4/1024, ttl=64 (request in 47)",attack
+49,10.02382512,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+50,10.20376612,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+51,10.23042497,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,normal
+52,10.86805381,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=5/1280, ttl=64 (reply in 53)",attack
+53,10.8681093,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=5/1280, ttl=64 (request in 52)",attack
+54,11.04668655,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+55,11.20385171,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+56,11.60459206,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xdee0 Server failure A 1.ubuntu.pool.ntp.org,normal
+57,11.60461675,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x4fa4 Server failure AAAA 1.ubuntu.pool.ntp.org,normal
+58,11.60470289,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xf09c A 1.ubuntu.pool.ntp.org.mydns.com,normal
+59,11.60476961,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x3f9d AAAA 1.ubuntu.pool.ntp.org.mydns.com,normal
+60,11.60496281,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xf09c No such name A 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+61,11.60497527,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x3f9d No such name AAAA 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+62,11.60519996,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xbff6 A ntp.ubuntu.com,normal
+63,11.60527031,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xf456 AAAA ntp.ubuntu.com,normal
+64,11.86788172,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=6/1536, ttl=64 (reply in 65)",attack
+65,11.86799538,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=6/1536, ttl=64 (request in 64)",attack
+66,11.87874528,Vmware_32:2e:c9,Vmware_e8:f1:88,ARP,60,Who has 192.168.159.152? Tell 192.168.159.150,normal
+67,11.87880304,Vmware_e8:f1:88,Vmware_32:2e:c9,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,normal
+68,12.07091864,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+69,12.8698686,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=7/1792, ttl=64 (reply in 70)",attack
+70,12.86995545,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=7/1792, ttl=64 (request in 69)",attack
+71,13.41575137,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+72,13.41609225,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+73,13.41654576,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+74,13.41680082,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+75,13.59985581,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+76,13.60009612,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+77,13.60056721,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+78,13.60080861,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+79,13.86881507,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=8/2048, ttl=64 (reply in 80)",attack
+80,13.86895083,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=8/2048, ttl=64 (request in 79)",attack
+81,14.42821217,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+82,14.42849657,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+83,14.42899077,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+84,14.42924297,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+85,14.6125809,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+86,14.61293561,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+87,14.61340371,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+88,14.61368098,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+89,14.8678369,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=9/2304, ttl=64 (reply in 90)",attack
+90,14.86794702,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=9/2304, ttl=64 (request in 89)",attack
+91,15.02937909,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+92,15.4059884,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+93,15.86764802,192.168.159.152,192.168.159.150,ICMP,98,"Echo (ping) request  id=0xf42c, seq=10/2560, ttl=64 (reply in 94)",attack
+94,15.86770143,192.168.159.150,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42c, seq=10/2560, ttl=64 (request in 93)",attack
+95,16.03874881,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+96,16.40379068,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+97,16.44233973,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+98,16.44269074,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+99,16.44323492,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+100,16.4435898,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+101,16.61050066,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xbff6 A ntp.ubuntu.com,normal
+102,16.61058423,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xf456 AAAA ntp.ubuntu.com,normal
+103,16.62681527,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+104,16.62715153,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+105,16.62756848,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+106,16.62797082,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+107,17.0624973,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+108,17.40375214,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+109,17.65099579,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=1/256, ttl=64 (reply in 110)",normal
+110,17.65105155,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=1/256, ttl=64 (request in 109)",normal
+111,18.65119601,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=2/512, ttl=64 (reply in 112)",normal
+112,18.65122756,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=2/512, ttl=64 (request in 111)",normal
+113,19.2064344,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+114,19.65021494,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=3/768, ttl=64 (reply in 115)",normal
+115,19.65024851,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=3/768, ttl=64 (request in 114)",normal
+116,19.76006357,192.168.159.154,192.168.159.255,BROWSER,250,"Domain/Workgroup Announcement ADFANET, NT Workstation, Domain Enum",normal
+117,20.03478696,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+118,20.20370076,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+119,20.45559162,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+120,20.45612953,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+121,20.46020116,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+122,20.46068251,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+123,20.63993317,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+124,20.64059926,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+125,20.64080928,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+126,20.64117736,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+127,20.64943322,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=4/1024, ttl=64 (reply in 128)",normal
+128,20.64946883,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=4/1024, ttl=64 (request in 127)",normal
+129,21.06281977,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+130,21.20362816,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+131,21.60598427,192.168.159.152,192.168.159.151,DNS,74,Standard query response 0xf456 Server failure AAAA ntp.ubuntu.com,normal
+132,21.60601352,192.168.159.152,192.168.159.151,DNS,74,Standard query response 0xbff6 Server failure A ntp.ubuntu.com,normal
+133,21.60610185,192.168.159.151,192.168.159.152,DNS,84,Standard query 0x8390 A ntp.ubuntu.com.mydns.com,normal
+134,21.60616926,192.168.159.151,192.168.159.152,DNS,84,Standard query 0xa5d0 AAAA ntp.ubuntu.com.mydns.com,normal
+135,21.60637703,192.168.159.152,192.168.159.151,DNS,132,Standard query response 0x8390 No such name A ntp.ubuntu.com.mydns.com SOA ubuntu.mydns.com,normal
+136,21.60639056,192.168.159.152,192.168.159.151,DNS,132,Standard query response 0xa5d0 No such name AAAA ntp.ubuntu.com.mydns.com SOA ubuntu.mydns.com,normal
+137,21.64819469,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=5/1280, ttl=64 (reply in 138)",normal
+138,21.64822738,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=5/1280, ttl=64 (request in 137)",normal
+139,22.08660369,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+140,22.64953604,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=6/1536, ttl=64 (reply in 141)",normal
+141,22.6495679,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=6/1536, ttl=64 (request in 140)",normal
+142,23.64847716,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=7/1792, ttl=64 (reply in 143)",normal
+143,23.64851043,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=7/1792, ttl=64 (request in 142)",normal
+144,24.64752876,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=8/2048, ttl=64 (reply in 145)",normal
+145,24.64759376,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=8/2048, ttl=64 (request in 144)",normal
+146,24.65176862,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,Who has 192.168.159.152? Tell 192.168.159.151,normal
+147,24.65190864,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,normal
+148,25.04053957,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+149,25.53160365,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,normal
+150,25.64787504,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=9/2304, ttl=64 (reply in 151)",normal
+151,25.64790585,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=9/2304, ttl=64 (request in 150)",normal
+152,26.00850105,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,normal
+153,26.05459172,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+154,26.5443276,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,normal
+155,26.64784023,192.168.159.152,192.168.159.151,ICMP,98,"Echo (ping) request  id=0xf42e, seq=10/2560, ttl=64 (reply in 156)",normal
+156,26.64787333,192.168.159.151,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf42e, seq=10/2560, ttl=64 (request in 155)",normal
+157,27.02087139,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,normal
+158,27.07897886,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+159,27.55903228,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,normal
+160,28.03568069,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,normal
+161,28.41783142,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+162,28.41813729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+163,28.41862731,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+164,28.41892661,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+165,28.57387668,192.168.241.1,239.255.255.250,SSDP,217,M-SEARCH * HTTP/1.1 ,normal
+166,28.60186219,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+167,28.60215601,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+168,28.6025919,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+169,28.60282664,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+170,29.05055971,192.168.241.1,239.255.255.250,SSDP,212,M-SEARCH * HTTP/1.1 ,normal
+171,29.41994412,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+172,29.42020248,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+173,29.42062821,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+174,29.42088369,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+175,29.60421775,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+176,29.60450899,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+177,29.60491014,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+178,29.60515863,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+179,30.04598467,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+180,30.59999915,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xb482 A 0.ubuntu.pool.ntp.org,normal
+181,30.60009057,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1e3f AAAA 0.ubuntu.pool.ntp.org,normal
+182,30.60079961,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+183,31.04637654,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+184,31.43396389,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+185,31.4342506,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+186,31.43466125,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+187,31.43492611,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+188,31.599929,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+189,31.61858452,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+190,31.61886418,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+191,31.61927839,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+192,31.61951868,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+193,32.07074463,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+194,32.60028723,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+195,34.40109263,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+196,35.05072384,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+197,35.39984095,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+198,35.44726409,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+199,35.44759425,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+200,35.44798381,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+201,35.44822828,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+202,35.60028599,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xb482 A 0.ubuntu.pool.ntp.org,normal
+203,35.60037439,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1e3f AAAA 0.ubuntu.pool.ntp.org,normal
+204,35.63173436,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+205,35.63198341,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+206,35.63242742,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+207,35.63265862,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+208,36.0712379,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+209,36.39987799,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+210,37.09477666,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+211,38.20152948,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+212,39.20012206,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+213,40.05414537,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+214,40.19971476,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+215,40.24459096,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,normal
+216,40.25643993,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+217,40.25696781,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+218,40.60069521,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xb482 Server failure A 0.ubuntu.pool.ntp.org,normal
+219,40.60084692,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xe4ce A 0.ubuntu.pool.ntp.org.mydns.com,normal
+220,40.60092897,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x886b AAAA 0.ubuntu.pool.ntp.org.mydns.com,normal
+221,40.60115009,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x886b No such name AAAA 0.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+222,40.60116316,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xe4ce No such name A 0.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+223,40.60118931,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1e3f Server failure AAAA 0.ubuntu.pool.ntp.org,normal
+224,40.6012034,192.168.159.151,192.168.159.152,ICMP,109,Destination unreachable (Port unreachable),normal
+225,41.06278508,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+226,41.25628234,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+227,41.25643917,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+228,42.08662408,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+229,42.25572884,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+230,42.25579085,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+231,43.25565456,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+232,43.2558276,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+233,43.42015544,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+234,43.42043988,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+235,43.42086253,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+236,43.42108418,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+237,43.60419259,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+238,43.60474068,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+239,43.60488653,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+240,43.60514545,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+241,44.25559784,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+242,44.25576177,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+243,44.42687982,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+244,44.42715132,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+245,44.42757912,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+246,44.42787647,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+247,44.61142159,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+248,44.61171674,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+249,44.61210953,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+250,44.61243668,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+251,45.05967471,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+252,45.25607317,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+253,45.25615522,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+254,45.27184272,Vmware_e8:f1:88,Vmware_5a:c5:2a,ARP,60,Who has 192.168.159.153? Tell 192.168.159.152,normal
+255,45.27195958,Vmware_5a:c5:2a,Vmware_e8:f1:88,ARP,60,192.168.159.153 is at 00:0c:29:5a:c5:2a,normal
+256,45.51088829,Vmware_5a:c5:2a,Vmware_e8:f1:88,ARP,60,Who has 192.168.159.152? Tell 192.168.159.153,normal
+257,45.5113512,Vmware_e8:f1:88,Vmware_5a:c5:2a,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,normal
+258,46.06768546,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x201b A clients4.google.com,normal
+259,46.06822288,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+260,46.08682535,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+261,46.25598275,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+262,46.25611292,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+263,46.44126173,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+264,46.4416474,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+265,46.44218111,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+266,46.44243604,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+267,46.60022912,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1826 A 2.ubuntu.pool.ntp.org,normal
+268,46.60032279,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xabed AAAA 2.ubuntu.pool.ntp.org,normal
+269,46.62580459,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+270,46.62608847,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+271,46.62649533,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+272,46.62671483,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+273,47.06801671,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+274,47.1106667,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+275,47.25629846,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+276,47.25654135,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+277,48.06787671,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+278,48.25617489,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+279,48.25648603,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+280,49.25638375,192.168.159.152,192.168.159.153,ESP,186,ESP (SPI=0xc169f3f5),normal
+281,49.25662895,192.168.159.153,192.168.159.152,ESP,186,ESP (SPI=0xcc5c0eda),normal
+282,49.86848747,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+283,50.06493466,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+284,50.45452564,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+285,50.4548156,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+286,50.45517759,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+287,50.45545217,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+288,50.63899339,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+289,50.63933244,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+290,50.63976729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+291,50.64004303,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+292,50.86782059,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+293,51.01050646,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=1/256, ttl=64 (reply in 296)",normal
+294,51.01085682,Vmware_c8:d3:2f,Broadcast,ARP,60,Who has 192.168.159.152? Tell 192.168.159.154,normal
+295,51.01092047,Vmware_e8:f1:88,Vmware_c8:d3:2f,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,normal
+296,51.01101175,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=1/256, ttl=128 (request in 293)",normal
+297,51.0725856,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x201b A clients4.google.com,normal
+298,51.07871074,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+299,51.60579106,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x1826 A 2.ubuntu.pool.ntp.org,normal
+300,51.6058826,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xabed AAAA 2.ubuntu.pool.ntp.org,normal
+301,51.8678456,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+302,52.0095177,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=2/512, ttl=64 (reply in 303)",normal
+303,52.00967842,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=2/512, ttl=128 (request in 302)",normal
+304,52.06931237,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x9ae6 A clients4.google.com,normal
+305,52.10249728,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+306,53.00964258,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=3/768, ttl=64 (reply in 307)",normal
+307,53.00965229,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=3/768, ttl=128 (request in 306)",normal
+308,53.66900825,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+309,54.00860826,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=4/1024, ttl=64 (reply in 310)",normal
+310,54.00871014,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=4/1024, ttl=128 (request in 309)",normal
+311,54.22134137,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+312,54.66783,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+313,55.00758939,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=5/1280, ttl=64 (reply in 314)",normal
+314,55.00770845,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=5/1280, ttl=128 (request in 313)",normal
+315,55.07012249,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+316,55.66676718,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+317,55.66768742,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+318,56.00807132,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=6/1536, ttl=64 (reply in 319)",normal
+319,56.00817356,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=6/1536, ttl=128 (request in 318)",normal
+320,56.06854183,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x9ae6 Server failure A clients4.google.com,normal
+321,56.06857141,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x201b Server failure A clients4.google.com,normal
+322,56.06866339,192.168.159.151,192.168.159.152,DNS,79,Standard query 0x9ae6 A clients4.google.com,normal
+323,56.06875418,192.168.159.151,192.168.159.152,DNS,89,Standard query 0x3c96 A clients4.google.com.mydns.com,normal
+324,56.06890771,192.168.159.152,192.168.159.151,DNS,137,Standard query response 0x3c96 No such name A clients4.google.com.mydns.com SOA ubuntu.mydns.com,normal
+325,56.07078335,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+326,56.22025085,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+327,56.60083305,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x1826 Server failure A 2.ubuntu.pool.ntp.org,normal
+328,56.60086079,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xabed Server failure AAAA 2.ubuntu.pool.ntp.org,normal
+329,56.60094453,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xed00 A 2.ubuntu.pool.ntp.org.mydns.com,normal
+330,56.60101139,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xb11b AAAA 2.ubuntu.pool.ntp.org.mydns.com,normal
+331,56.60119002,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xed00 No such name A 2.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+332,56.60119805,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xb11b No such name AAAA 2.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+333,56.60131967,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xf95c A 3.ubuntu.pool.ntp.org,normal
+334,56.6013835,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xd8a3 AAAA 3.ubuntu.pool.ntp.org,normal
+335,57.00844379,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=7/1792, ttl=64 (reply in 336)",normal
+336,57.00854641,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=7/1792, ttl=128 (request in 335)",normal
+337,57.0946951,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+338,57.21970042,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+339,58.00798178,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=8/2048, ttl=64 (reply in 340)",normal
+340,58.00805835,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=8/2048, ttl=128 (request in 339)",normal
+341,58.42239293,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+342,58.42267019,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+343,58.42312039,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+344,58.4234092,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+345,58.60645601,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+346,58.60677346,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+347,58.6072486,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+348,58.60750263,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+349,58.68043239,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+350,59.00793389,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=9/2304, ttl=64 (reply in 351)",normal
+351,59.00794444,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=9/2304, ttl=128 (request in 350)",normal
+352,59.21866013,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+353,59.43411379,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+354,59.43435684,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+355,59.43479139,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+356,59.43504266,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+357,59.61864168,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+358,59.61893272,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+359,59.61935018,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+360,59.61966585,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+361,59.86954578,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+362,60.00785367,192.168.159.152,192.168.159.154,ICMP,98,"Echo (ping) request  id=0xf57b, seq=10/2560, ttl=64 (reply in 363)",normal
+363,60.00795519,192.168.159.154,192.168.159.152,ICMP,98,"Echo (ping) reply    id=0xf57b, seq=10/2560, ttl=128 (request in 362)",normal
+364,60.07163349,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+365,60.2181764,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+366,60.86784385,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+367,61.07408417,192.168.159.151,192.168.159.152,DNS,89,Standard query 0x2861 A clients4.google.com.mydns.com,normal
+368,61.07438865,192.168.159.152,192.168.159.151,DNS,137,Standard query response 0x2861 No such name A clients4.google.com.mydns.com SOA ubuntu.mydns.com,normal
+369,61.09456128,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+370,61.44853622,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+371,61.44883962,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+372,61.44924884,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+373,61.44948368,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+374,61.60380624,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xf95c A 3.ubuntu.pool.ntp.org,normal
+375,61.60389439,192.168.159.151,192.168.159.152,DNS,81,Standard query 0xd8a3 AAAA 3.ubuntu.pool.ntp.org,normal
+376,61.63300858,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+377,61.63326909,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+378,61.63369751,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+379,61.63403445,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+380,61.6941696,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+381,61.86778104,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+382,62.11877812,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+383,62.23243038,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+384,62.62936127,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+385,63.23186693,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+386,63.62765706,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+387,63.66988998,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+388,64.62764521,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+389,64.66778849,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+390,64.70806138,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+391,65.0774583,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+392,65.23078556,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+393,65.4617031,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+394,65.46212156,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+395,65.46265379,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+396,65.46296131,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+397,65.63717556,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+398,65.6461491,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+399,65.64646729,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+400,65.64688746,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+401,65.64716215,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+402,65.66772979,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+403,66.06953775,192.168.159.152,192.168.159.151,DNS,79,Standard query response 0x9ae6 Server failure A clients4.google.com,normal
+404,66.06960237,192.168.159.151,192.168.159.152,ICMP,107,Destination unreachable (Port unreachable),normal
+405,66.08646829,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+406,66.12351328,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,Who has 192.168.159.152? Tell 192.168.159.151,normal
+407,66.12408351,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,192.168.159.152 is at 00:0c:29:e8:f1:88,normal
+408,66.23032065,Vmware_c0:00:08,Broadcast,ARP,60,Who has 192.168.241.2? Tell 192.168.241.1,normal
+409,66.60184389,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xf95c Server failure A 3.ubuntu.pool.ntp.org,normal
+410,66.60187339,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0xd8a3 Server failure AAAA 3.ubuntu.pool.ntp.org,normal
+411,66.60195984,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x0b27 A 3.ubuntu.pool.ntp.org.mydns.com,normal
+412,66.60202686,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xdeb1 AAAA 3.ubuntu.pool.ntp.org.mydns.com,normal
+413,66.60221022,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x0b27 No such name A 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+414,66.60222164,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xdeb1 No such name AAAA 3.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+415,66.60234955,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x6541 A 1.ubuntu.pool.ntp.org,normal
+416,66.60243208,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x66d7 AAAA 1.ubuntu.pool.ntp.org,normal
+417,66.63595206,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+418,67.11061961,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+419,67.63587099,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+420,68.63882857,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+421,69.63577412,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+422,70.08281387,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+423,70.2592347,192.168.241.1,192.168.241.255,UDP,86,57621  >  57621 Len=44,normal
+424,70.40344038,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+425,70.63581947,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+426,71.11058585,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+427,71.39966974,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+428,71.60773805,Vmware_e8:f1:88,Vmware_d1:d0:a0,ARP,60,Who has 192.168.159.151? Tell 192.168.159.152,normal
+429,71.60775587,Vmware_d1:d0:a0,Vmware_e8:f1:88,ARP,42,192.168.159.151 is at 00:0c:29:d1:d0:a0,normal
+430,71.6079261,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x6541 A 1.ubuntu.pool.ntp.org,normal
+431,71.6080165,192.168.159.151,192.168.159.152,DNS,81,Standard query 0x66d7 AAAA 1.ubuntu.pool.ntp.org,normal
+432,71.65409519,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+433,72.13460527,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+434,72.39988708,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+435,72.65192666,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+436,73.42446605,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+437,73.42473395,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+438,73.42513323,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+439,73.42537906,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+440,73.60745662,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+441,73.60775672,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+442,73.60815722,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+443,73.60839521,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+444,73.65185673,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.155? Tell 192.168.159.152,normal
+445,74.20401093,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+446,74.42581066,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+447,74.42618982,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+448,74.42658847,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+449,74.4268276,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+450,74.61042025,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+451,74.61073002,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+452,74.61115796,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+453,74.61144504,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+454,75.08836865,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+455,75.20382083,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+456,76.10263248,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+457,76.20377739,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+458,76.44034011,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+459,76.44071314,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+460,76.44127577,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+461,76.44162399,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+462,76.60314207,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x66d7 Server failure AAAA 1.ubuntu.pool.ntp.org,normal
+463,76.60316983,192.168.159.152,192.168.159.151,DNS,81,Standard query response 0x6541 Server failure A 1.ubuntu.pool.ntp.org,normal
+464,76.60325509,192.168.159.151,192.168.159.152,DNS,91,Standard query 0x83a4 A 1.ubuntu.pool.ntp.org.mydns.com,normal
+465,76.60335143,192.168.159.151,192.168.159.152,DNS,91,Standard query 0xd778 AAAA 1.ubuntu.pool.ntp.org.mydns.com,normal
+466,76.60353963,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0x83a4 No such name A 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+467,76.60355205,192.168.159.152,192.168.159.151,DNS,139,Standard query response 0xd778 No such name AAAA 1.ubuntu.pool.ntp.org.mydns.com SOA ubuntu.mydns.com,normal
+468,76.60372583,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xe60e A ntp.ubuntu.com,normal
+469,76.60414397,192.168.159.151,192.168.159.152,DNS,74,Standard query 0x1eac AAAA ntp.ubuntu.com,normal
+470,76.6246752,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+471,76.62500747,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+472,76.6254945,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+473,76.62569453,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+474,77.12684218,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+475,80.09411795,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+476,80.45338824,192.168.241.1,224.0.0.251,MDNS,86,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+477,80.45370447,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,106,"Standard query 0x0000 PTR _oculusal_sp_v2._tcp.local, ""QM"" question",normal
+478,80.45410715,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,330,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+479,80.45441621,192.168.241.1,224.0.0.251,MDNS,310,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp_v2._tcp.local SRV 0 0 64842 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+480,80.60497397,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+481,80.6376997,192.168.241.1,224.0.0.251,MDNS,83,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+482,80.63797361,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,103,"Standard query 0x0000 PTR _oculusal_sp._tcp.local, ""QM"" question",normal
+483,80.63838314,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,321,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+484,80.63865673,192.168.241.1,224.0.0.251,MDNS,301,Standard query response 0x0000 PTR BenCo::DESKTOP-V19Q667._oculusal_sp._tcp.local SRV 0 0 64844 DESKTOP-V19Q667.local TXT A 192.168.241.1 AAAA fe80::b1a1:6a9a:e994:a430,normal
+485,81.09483532,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+486,81.60364786,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+487,81.60754162,192.168.159.151,192.168.159.152,DNS,74,Standard query 0xe60e A ntp.ubuntu.com,normal
+488,81.60766681,192.168.159.151,192.168.159.152,DNS,74,Standard query 0x1eac AAAA ntp.ubuntu.com,normal
+489,82.1185736,Vmware_32:2e:c9,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.150,normal
+490,82.6036722,Vmware_e8:f1:88,Broadcast,ARP,60,Who has 192.168.159.2? Tell 192.168.159.152,normal
+491,83.74571041,192.168.241.1,224.0.0.251,MDNS,87,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",normal
+492,83.74594515,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",normal
+493,83.74609356,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",normal
+494,83.74649135,fe80::b1a1:6a9a:e994:a430,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question",normal
