@@ -1,4 +1,9 @@
-# draft for ML algorithm
+'''
+Skynet Machine Learning Algorithm
+Securing Networks Assignment 4
+__version__ = 10/11/23
+__author__  = Sam Watson
+'''
 
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
@@ -14,14 +19,15 @@ data = pd.read_csv(r"data.csv", encoding = "ISO-8859-1")
 data = data.fillna(0)
 
 # transform data into string:
-# based on headings in the data.csv, for example:
 encoder = LabelEncoder ()
 data['ID'] = encoder.fit_transform(data['No.'].astype ('str'))
+data['Dataset'] = encoder.fit_transform(data['Dataset'].astype ('str'))
 data['Time'] = encoder.fit_transform(data['Time'].astype ('str'))
-data['SourceIP'] = encoder.fit_transform(data['Source'].astype ('str'))
-# etc ..
-# TODO modify above for the headings we decide on for the data csv
-
+data['Source IP'] = encoder.fit_transform(data['Source'].astype ('str'))
+data['Destination IP'] = encoder.fit_transform(data['Destination'].astype ('str'))
+data['Length'] = encoder.fit_transform(data['Length'].astype ('int'))
+data['Info'] = encoder.fit_transform(data['Info'].astype ('str'))
+data['Attack?'] = encoder.fit_transform(data['Attack'].astype ('str'))
 
 # Separate informational data and expected output data
 x = data. drop ('Label', axis =1).values # features
