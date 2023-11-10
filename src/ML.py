@@ -13,7 +13,7 @@ from sklearn.base import accuracy_score, confusion_matrix
 
 
 # load into dataframe:
-data = pd.read_csv(r"data.csv", encoding = "ISO-8859-1")
+data = pd.read_csv(r"networkdata.csv", encoding = "ISO-8859-1")
 
 # fill missing values with 0:
 data = data.fillna(0)
