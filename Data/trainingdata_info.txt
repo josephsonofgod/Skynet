@@ -1,0 +1,90 @@
+COLUMN	DATATYPE	COMMENTS
+Id	int
+Time	double
+Source	string
+Destination	string
+Protocol	int	Reference below
+Length	int
+Info	string	You can ignore this column if you like
+Attack	bool	Technically int 1 and 0 and needs to be converted, couldn't find a way around this
+Type	int	Reference below
+Dataset	int	Reference below
+
+
+Protocol Reference
+VALUE	MEANING
+1	ALLJOYN-NS
+2	ARP
+3	BOOTPARAMS
+4	BROWSER
+5	DHCP
+6	DHCPv6
+7	DNS
+8	ESP
+9	FTP
+10	FTP-DATA
+11	FTP-DATA/XML
+12	HCLNFSD
+13	HTTP
+14	ICMP
+15	ICMPv6
+16	IGMPv3
+17	IMAP
+18	KLM
+19	KPASSWD
+20	LDAP
+21	LLMNR
+22	MDNS
+23	MEMCACHE
+24	MOUNT
+25	MySQL
+26	NBNS
+27	NFS
+28	NFS CB
+29	NFSACL
+30	NFSAUTH
+31	NIS+
+32	NIS+ CB
+33	NLM
+34	NTP
+35	PCNFSD
+36	POP
+37	Portmap
+38	RPC
+39	RQUOTA
+40	RSTAT
+41	RWALL
+42	SADMIND
+43	SGI MOUNT
+44	SMTP
+45	SPRAY
+46	SSDP
+47	SSH
+48	SSLv3
+49	STAT
+50	STAT-CB
+51	TCP
+52	TLSv1.2
+53	UDP
+54	VNC
+55	X11
+56	YPBIND
+57	YPPASSWD
+58	YPSERV
+59	YPXFR
+
+Attack Type Reference
+VALUE	ATTACK TYPE
+0	Normal
+1	MitM
+2	Fuzz
+3	Nmap
+4	DoS
+
+Dataset Reference
+VALUE	DATASET
+1	MitM
+2	Fuzzing Data
+3	Normal Traffic
+4	Scanning Vulnerabilities
+5	DoS
