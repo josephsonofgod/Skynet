@@ -18,16 +18,12 @@ data = pd.read_csv(r"data.csv", encoding = "ISO-8859-1")
 # fill missing values with 0:
 data = data.fillna(0)
 
-# transform data into string:
+#define encoder
 encoder = LabelEncoder ()
-data['ID'] = encoder.fit_transform(data['No.'].astype ('str'))
-data['Dataset'] = encoder.fit_transform(data['Dataset'].astype ('str'))
-data['Time'] = encoder.fit_transform(data['Time'].astype ('str'))
-data['Source IP'] = encoder.fit_transform(data['Source'].astype ('str'))
-data['Destination IP'] = encoder.fit_transform(data['Destination'].astype ('str'))
-data['Length'] = encoder.fit_transform(data['Length'].astype ('int'))
-data['Info'] = encoder.fit_transform(data['Info'].astype ('str'))
-data['Attack?'] = encoder.fit_transform(data['Attack'].astype ('str'))
+# Translate non-integer values into encoded values:
+data['Source'] = encoder.fit_transform(data[["Source"]])
+data['Destination'] = encoder.fit_transform(data[["Destination"]])
+data['Info'] = encoder.fit_transform(data[["Info"]].astype ('str'))
 
 # Separate informational data and expected output data
 x = data. drop ('Label', axis =1).values # features
