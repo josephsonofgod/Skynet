@@ -9,11 +9,11 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.base import accuracy_score, confusion_matrix
+from sklearn.metrics import accuracy_score, confusion_matrix
 
 
 # load into dataframe:
-data = pd.read_csv(r"network_traffic_monitoring_system.csv", encoding = "ISO-8859-1")
+data = pd.read_csv(r"src/network_traffic_monitoring_system.csv", encoding = "ISO-8859-1")
 
 # fill missing values with 0:
 data = data.fillna(0)
