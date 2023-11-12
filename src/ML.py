@@ -18,13 +18,20 @@ data = pd.read_csv(r"src/network_traffic_monitoring_system.csv", encoding = "ISO
 # fill missing values with 0:
 data = data.fillna(0)
 
-#define encoder
-encoder = LabelEncoder ()
 # Translate non-integer values into encoded values:
+encoder = LabelEncoder ()
 data['ID'] = encoder.fit_transform(data['Id'].astype('str'))
+data['Source'] = encoder.fit_transform(data['Source'].values.ravel())
+data['Destination'] = encoder.fit_transform(data["Destination"].values.ravel())
+data['Info'] = encoder.fit_transform(data["Info"].astype('str').values.ravel())
+data['Label'] = encoder.fit_transform(data["Attack"].values.ravel())
+
+# Separate informational data and expected output data
+x = data.drop('Label', axis = 1).values # features
+y = data['Label'].values # labels
 
 # separate into training and testing:
-xTrain, xTest, yTrain, yTest = train_test_split(x, y, test_size=0.2, random_state=42) # <-- might need to change the last 2 parameters
+xTrain, xTest, yTrain, yTest = train_test_split(x, y, test_size=0.2, random_state=42)
 
 # train:
 model = DecisionTreeClassifier(criterion = "entropy")
