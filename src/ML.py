@@ -1,7 +1,7 @@
 '''
 Skynet Machine Learning Algorithm
 Securing Networks Assignment 4
-__version__ = 10/11/23
+__version__ = 12/11/23
 __author__  = Sam Watson
 '''
 
@@ -43,6 +43,10 @@ model = DecisionTreeClassifier(criterion = "entropy")
 model.fit(xTrain , yTrain)
 prediction = model.predict(xTest)
 
-# accuracy: 
-print("Accuracy", accuracy_score(prediction , yTest)*100, "%")
-print("Confusion Matrix", confusion_matrix(prediction , yTest))
+# accuracy:
+print("_______________________ACCURACY_______________________")
+print("Accuracy:", accuracy_score(prediction , yTest)*100, "%")
+print("Accuracy (Rounded):", round(accuracy_score(prediction , yTest)*100, 3), "%")
+print("___________________CONFUSION MATRIX___________________")
+print("Confusion Matrix:\n", confusion_matrix(prediction , yTest))
+print("________________________________________")
