@@ -26,6 +26,11 @@ data['Destination'] = encoder.fit_transform(data["Destination"].values.ravel())
 data['Info'] = encoder.fit_transform(data["Info"].astype('str').values.ravel())
 data['Label'] = encoder.fit_transform(data["Attack"].values.ravel())
 
+#drop identifying data to attacks to allow for proper machine learning analysis
+data = data.drop(columns='Attack')
+data = data.drop(columns='Attack Type')
+data = data.drop(columns='Dataset')
+
 # Separate informational data and expected output data
 x = data.drop('Label', axis = 1).values # features
 y = data['Label'].values # labels
