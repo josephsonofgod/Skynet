@@ -21,13 +21,7 @@ data = data.fillna(0)
 #define encoder
 encoder = LabelEncoder ()
 # Translate non-integer values into encoded values:
-data['Source'] = encoder.fit_transform(data[["Source"]])
-data['Destination'] = encoder.fit_transform(data[["Destination"]])
-data['Info'] = encoder.fit_transform(data[["Info"]].astype ('str'))
-
-# Separate informational data and expected output data
-x = data. drop ('Label', axis =1).values # features
-y = data['Label'].values # labels
+data['ID'] = encoder.fit_transform(data['Id'].astype('str'))
 
 # separate into training and testing:
 xTrain, xTest, yTrain, yTest = train_test_split(x, y, test_size=0.2, random_state=42) # <-- might need to change the last 2 parameters
